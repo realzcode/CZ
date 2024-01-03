@@ -3,6 +3,7 @@
 /* REALZCODE - ELEPHANT-DDOS A V1.1
  * “Surely Allah is my Lord and your Lord, so worship Him ˹alone˺. This is the Straight Path.” QS.Maryam:36
  * Disclaimer of Distributed Denial of Service (DDOS) Layer 7 Pentester Tool are design for Cyber Security Professional
+ * New Version with Proxy
  */
 
 set_time_limit(0);
